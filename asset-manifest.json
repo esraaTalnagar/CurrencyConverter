@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/esraaTalnagar/CurrencyConverter/static/css/main.4dffa2e0.css",
+    "main.js": "/esraaTalnagar/CurrencyConverter/static/js/main.24f48189.js",
+    "index.html": "/esraaTalnagar/CurrencyConverter/index.html",
+    "static/media/Exchange.svg": "/esraaTalnagar/CurrencyConverter/static/media/Exchange.f37fb45fe20f6471ff1deb8f0284e202.svg",
+    "main.4dffa2e0.css.map": "/esraaTalnagar/CurrencyConverter/static/css/main.4dffa2e0.css.map",
+    "main.24f48189.js.map": "/esraaTalnagar/CurrencyConverter/static/js/main.24f48189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dffa2e0.css",
+    "static/js/main.24f48189.js"
+  ]
+}
